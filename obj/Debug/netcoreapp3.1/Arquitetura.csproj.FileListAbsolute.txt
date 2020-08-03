@@ -1,0 +1,13 @@
+C:\repo\Arquitetura\obj\Debug\netcoreapp3.1\Arquitetura.csprojAssemblyReference.cache
+C:\repo\Arquitetura\obj\Debug\netcoreapp3.1\Arquitetura.AssemblyInfoInputs.cache
+C:\repo\Arquitetura\obj\Debug\netcoreapp3.1\Arquitetura.AssemblyInfo.cs
+C:\repo\Arquitetura\obj\Debug\netcoreapp3.1\Arquitetura.csproj.CoreCompileInputs.cache
+C:\repo\Arquitetura\bin\Debug\netcoreapp3.1\Arquitetura.exe
+C:\repo\Arquitetura\bin\Debug\netcoreapp3.1\Arquitetura.deps.json
+C:\repo\Arquitetura\bin\Debug\netcoreapp3.1\Arquitetura.runtimeconfig.json
+C:\repo\Arquitetura\bin\Debug\netcoreapp3.1\Arquitetura.runtimeconfig.dev.json
+C:\repo\Arquitetura\bin\Debug\netcoreapp3.1\Arquitetura.dll
+C:\repo\Arquitetura\bin\Debug\netcoreapp3.1\Arquitetura.pdb
+C:\repo\Arquitetura\obj\Debug\netcoreapp3.1\Arquitetura.dll
+C:\repo\Arquitetura\obj\Debug\netcoreapp3.1\Arquitetura.pdb
+C:\repo\Arquitetura\obj\Debug\netcoreapp3.1\Arquitetura.genruntimeconfig.cache
